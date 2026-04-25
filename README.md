@@ -1,2 +1,3 @@
 # sverk.tech_autotests
-ui tests for sverk.tech
+##Автотетсы для sverk.tech
+Проект написан на Python + Selenium + pytest и отображает процесс автоматизации, который я бы хотел увидеть в компании
