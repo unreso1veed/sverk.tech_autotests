@@ -17,6 +17,7 @@ source .venv/bin/acivate #MAC or
 pip3 install -r requirements.txt
 
 pytests tests
+
 -------------
 Запуск с отчетом:
 
