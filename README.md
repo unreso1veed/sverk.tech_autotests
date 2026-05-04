@@ -6,6 +6,8 @@
 ### Запуск тестов
 git clone https://github.com/unreso1veed/sverk.tech_autotests
 
+cd sverk.tech_autotests
+
 python3 -m venv .venv
 
 source .venv/bin/acivate #MAC or
@@ -15,3 +17,7 @@ source .venv/bin/acivate #MAC or
 pip3 install -r requirements.txt
 
 pytests tests
+-------------
+Запуск с отчетом:
+
+pytest tests/ --html=report.html --self-contained-html
