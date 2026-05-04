@@ -22,3 +22,7 @@ pytests tests
 Запуск с отчетом:
 
 pytest tests/ --html=report.html --self-contained-html
+
+-------------
+Есть наработки под автоматизацию для мобилок с помощью эмуляции через Selenium. В device_driver.py можно изменить тип устройства. 
+
