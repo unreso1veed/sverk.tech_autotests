@@ -19,6 +19,8 @@ pip3 install -r requirements.txt
 pytests tests
 
 -------------
+![report log screen](report.png)
+
 Запуск с отчетом:
 
 pytest tests/ --html=report.html --self-contained-html
